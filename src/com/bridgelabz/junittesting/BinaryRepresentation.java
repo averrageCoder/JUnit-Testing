@@ -1,7 +1,9 @@
 package com.bridgelabz.junittesting;
 
 public class BinaryRepresentation {
-
+	
+	
+	
 	static void toBinary(int n)
     {
         int[] binaryNum = new int[32];
